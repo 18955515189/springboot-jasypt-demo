@@ -1,0 +1,8 @@
+jasypt:
+  encryptor:
+    password: 123456
+
+mine:
+  jasypt:
+    username: ENC(kaFVM9jSE6bUM1kLeOsQeQ==)
+    password: ENC(Peq19ipw4n5xYNIbu9hjHQ==)

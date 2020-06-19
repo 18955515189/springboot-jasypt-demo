@@ -1,0 +1,4 @@
+mine:
+  jasypt:
+    username: jasypt(b_root)
+    password: jasypt(b_root123)
